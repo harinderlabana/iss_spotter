@@ -1,8 +1,8 @@
 // requrie and run our main fetch function
 const {
-  fetchMyIP,
-  fetchCoordsByIP,
-  fetchISSFlyOverTimes,
+  // fetchMyIP,
+  // fetchCoordsByIP,
+  // fetchISSFlyOverTimes,
   nextISSTimesForMyLocation,
 } = require('./iss');
 
